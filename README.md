@@ -19,5 +19,6 @@
 <br />
 
 ---
+![](https://komarev.com/ghpvc/?username=rizaeko&color=green&style=for-the-badge&abbreviated=true)
 
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=rizaeko.visitor-badge&left_color=red&right_color=green&left_text=Hello%20Visitors)
+
